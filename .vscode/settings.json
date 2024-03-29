@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "YouTubeRecommenderProject/lib/DJNativeSwing-SWT.jar",
+        "YouTubeRecommenderProject/lib/javafx.fxml.jar",
+        "YouTubeRecommenderProject/lib/swt.jar",
+        "YouTubeRecommenderProject/lib/DJNativeSwing.jar",
+        "YouTubeRecommenderProject/lib/javafx.graphics.jar",
+        "YouTubeRecommenderProject/lib/javafx-swt.jar",
+        "YouTubeRecommenderProject/lib/javafx.media.jar",
+        "YouTubeRecommenderProject/lib/javafx.base.jar",
+        "YouTubeRecommenderProject/lib/javafx.swing.jar",
+        "YouTubeRecommenderProject/lib/javafx.controls.jar",
+        "YouTubeRecommenderProject/lib/javafx.web.jar"
+    ]
+}
